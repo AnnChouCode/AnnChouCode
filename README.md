@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ann Chou.
 I am a front-end engineer from Taiwan.
-- [Email](yuanchou.ann@gmail.com)
+- [Email](mailto:yuanchou.ann@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/annchou/)
 - [Blogger](https://vocus.cc/salon/annchou_salon/room/annchou_coding)
 

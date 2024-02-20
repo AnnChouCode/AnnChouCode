@@ -1,7 +1,11 @@
 ## 👋 Hi, I'm Ann Chou.
 I am a front-end engineer from Taiwan.
+
+📫 How to reach me:
 - [Email](mailto:yuanchou.ann@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/annchou/)
+
+:bookmark_tabs:
 - [Blogger](https://vocus.cc/salon/annchou_salon/room/annchou_coding)
 
 ## :bookmark_tabs: Building projects with:
@@ -13,6 +17,8 @@ I am a front-end engineer from Taiwan.
 ![jQuery](https://camo.githubusercontent.com/184585b37459eba476f1af7a386d9093c132a4ba6052ca17782f2a70a377b1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792d3037363941443f7374796c653d666f722d7468652d6261646765266c6f676f3d6a7175657279266c6f676f436f6c6f723d7768697465)
 ![Vite](https://camo.githubusercontent.com/285fdadfaf59ede5da219ccf9f8278322e8f85cfa48f5ba33df53ce2f0c72098/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566974652d4237334246453f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d464644363245)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <!--
 **AnnChouCode/AnnChouCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
